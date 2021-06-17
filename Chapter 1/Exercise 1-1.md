@@ -11,7 +11,7 @@ ERROR: LoadError: UndefVarError: @println_str not defined
 in expression starting at REPL[10]:1
 ```
 
-2. If you are typing to print a string, what happens if you leave out ont of the quotation marks, or both?
+2. If you are typing to print a string, what happens if you leave out one of the quotation marks, or both?
 
 ```Julia
 julia> println("Hello, World!)
